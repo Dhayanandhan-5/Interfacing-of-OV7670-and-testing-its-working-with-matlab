@@ -112,6 +112,11 @@ OV7670 ──► SCCB config FSM ──► camera registers
 | Frame size | 320 × 240 × 12 bit |
 | UART transfer time | ~13.3 s per frame |
 
+## Output
+<img width="1128" height="801" alt="Screenshot 2026-07-07 190417" src="https://github.com/user-attachments/assets/65d94cae-35a9-401f-a348-de95108ad3fc" />
+<img width="1195" height="785" alt="Screenshot 2026-07-07 190431" src="https://github.com/user-attachments/assets/11f89fa3-9fb1-4c00-919f-50db4420f686" />
+
+
 ## Known Limitations / Future Work
 
 - Single-frame capture only, with no live video.
